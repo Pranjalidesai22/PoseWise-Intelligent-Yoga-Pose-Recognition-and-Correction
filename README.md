@@ -1,6 +1,5 @@
 # PoseWise-Intelligent-Yoga-Pose-Recognition-and-Correction
 
-# Yoga Pose Recognition from Videos
 
 ## Project Overview
 
